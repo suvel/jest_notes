@@ -2,7 +2,7 @@
 
 ### KEY POINTS
 - [mocking popular lib functions and hooks](https://github.com/suvel/jest_notes#mocking-popular-lib-functions-and-hooks)
-- [mocking exports](https://github.com/suvel/jest_notes/edit/main/README.md#mocking-exports)
+- [mocking exports](https://github.com/suvel/jest_notes#mocking-exports)
 - [finding elements](https://github.com/suvel/jest_notes#mocking-exports)
 - [triggering click](https://github.com/suvel/jest_notes#triggering-click)
 - [checking condition](https://github.com/suvel/jest_notes#checking-condition)
