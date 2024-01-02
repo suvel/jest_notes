@@ -11,7 +11,8 @@
 - [checking condition](https://github.com/suvel/jest_notes#checking-condition)
 - [debugg](https://github.com/suvel/jest_notes#debugg)
 - [mitigating common error and warning](https://github.com/suvel/jest_notes#mitigating-common-error-and-warning)
-- [How to ignore files from running test coverage](https://stackoverflow.com/questions/50992518/how-can-i-ignore-a-file-pattern-for-jest-code-coverage)
+- [How to ignore files from running test coverage](https://github.com/suvel/jest_notes/tree/main?tab=readme-ov-file#how-to-ignore-files-from-testing-unnessary)
+- [How to run and get test coverage for a individual file](https://github.com/suvel/jest_notes/tree/main?tab=readme-ov-file#run-and-get-test-coverage-for-individual-filecomponent)
 
 ### test case template
 
