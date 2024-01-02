@@ -240,3 +240,11 @@ global.React = React;
 In jest.config.js you can add the file(s) name under "coveragePathIgnorePatterns" to ignore running  covergae for the same.
 
 Ref: https://stackoverflow.com/questions/50992518/how-can-i-ignore-a-file-pattern-for-jest-code-coverage
+
+### Run and get test coverage for individual file/component
+
+use the below script to run the same:
+```
+> npm test <test_file_name> -- --coverage --collectCoverageFrom=<file_src_relative_path>
+```
+Ref:https://stackoverflow.com/questions/66492412/how-to-run-jest-tests-with-coverage-for-one-file
