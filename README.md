@@ -233,3 +233,9 @@ global.React = React;
     ".+\\.(css|styl|less|sass|scss|png|jpg|ttf|woff|woff2)$": "<rootDir>/imgTransform.js"
   }
 ```
+
+### How to ignore files from testing unnessary
+
+In jest.config.js you can add the file(s) name under "coveragePathIgnorePatterns" to ignore running  covergae for the same.
+
+Ref: https://stackoverflow.com/questions/50992518/how-can-i-ignore-a-file-pattern-for-jest-code-coverage
